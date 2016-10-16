@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="concision4J_demo"
+  id="myeclipse.1476585437522"
+  context-root="/concision4J_demo"
+  j2ee-spec="5.0"
+  archive="concision4J_demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
